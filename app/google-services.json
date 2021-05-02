@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504624836188",
+    "firebase_url": "https://glambeauty-727b0.firebaseio.com",
+    "project_id": "glambeauty-727b0",
+    "storage_bucket": "glambeauty-727b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504624836188:android:e16f076a5ccf321e438099",
+        "android_client_info": {
+          "package_name": "com.example.glambeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504624836188-vbubm409lcqqf41psts13r6jp7bahrkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glambeauty",
+            "certificate_hash": "3d83b46e93da62289242d76cd0a128f77095a12f"
+          }
+        },
+        {
+          "client_id": "504624836188-fc1p7jq36b1t7e7p2as1c6e56t7hiu2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIUdqbnmdNKHCKPsuQUHNCET3B5z3xD5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504624836188-fc1p7jq36b1t7e7p2as1c6e56t7hiu2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

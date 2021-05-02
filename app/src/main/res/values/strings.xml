@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Glam&amp;Beauty</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">OR</string>
+
+    <string name="eyes">Eyes</string>
+    <string name="lips">Lips</string>
+    <string name="face">Face</string>
+
+    <string name="eyebrow">Eyebrow</string>
+    <string name="eyeliner">Eyeliner</string>
+    <string name="eyeshadow">Eyeshadow</string>
+    <string name="mascara">Mascara</string>
+
+    <string name="lipstick">Lipstick</string>
+    <string name="lipliner">Lipliner</string>
+
+    <string name="foundation">Foundation</string>
+    <string name="bronzer">Bronzer</string>
+    <string name="blush">Blush</string>
+
+    <string name="fieldsLogin">Enter all fields</string>
+
+    <string name="productName">Enter product name</string>
+    <string name="Ingridient">Enter product ingredient (brand, color)</string>
+    <string name="Step">Enter using steps and opinion about product</string>
+    <string name="Save">Save</string>
+
+    <string name="ingr"> e.g. nyx-red </string>
+    <string name="steps"> e.g. open product... </string>
+
+    <string name="removeProduct">RemoveProduct</string>
+
+</resources>

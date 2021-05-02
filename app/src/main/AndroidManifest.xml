@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.glambeauty">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.NoviProizvodActivity" />
+        <activity android:name=".activities.FavoriteActivity" />
+        <activity android:name=".activities.FaceActivity" />
+        <activity android:name=".activities.BlushActivity" />
+        <activity android:name=".activities.BronzerActivity" />
+        <activity android:name=".activities.FoundationActivity" />
+        <activity android:name=".activities.LipsActivity" />
+        <activity android:name=".activities.LipstickActivity" />
+        <activity android:name=".activities.LiplinerActivity" />
+        <activity android:name=".activities.EyesActivity" />
+        <activity android:name=".activities.EyebrowActivity"/>
+        <activity android:name=".activities.EyelinerActivity" />
+        <activity android:name=".activities.EyeshadowActivity" />
+        <activity android:name=".activities.MascaraActivity" />
+        <activity android:name=".activities.RegisterActivity" />
+        <activity android:name=".activities.ProfileActivity" />
+        <activity android:name=".activities.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.PocetniActivity" />
+        <activity android:name=".activities.MainActivity" />
+        <activity android:name=".activities.SingleActivity" />
+    </application>
+
+</manifest>
